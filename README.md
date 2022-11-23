@@ -1,6 +1,8 @@
 # Human Face Landmark Detection in TensorFlow
 
 This repository contains the code for `Human Face Landmark Detection` using `Landmark Guided Face Parsing` (LaPa) dataset. The pre-trained MobileNetv2 is used for the task in the TensorFlow framework. 
+<br/><br/>
+**YouTube tutorial**: [Human Face Landmark Detection in TensorFlow using MobileNetv2](https://youtu.be/WVOMGekzbWE)
 
 ## Dataset
 The LaPa dataset contains the training, validation and testing dataset. Each dataset have images, segmentation mask and the 106 human facial key points. <br/>
